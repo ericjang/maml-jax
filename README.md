@@ -1,2 +1,5 @@
 # maml-jax
-Implementation of Model-Agnostic Meta-Learning (MAML) in Jax
+
+This repository implements Model-Agnostic Meta-Learning algorithm in Python + JAX.
+
+Blog Post: [https://blog.evjang.com/2019/02/mamljax.html](https://blog.evjang.com/2019/02/mamljax.html)
